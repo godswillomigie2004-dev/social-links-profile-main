@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/godswillomigie2004-dev/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://godswillomigie2004-dev.github.io/social-links-profile-main/)
+- Solution URL: [solution](https://github.com/godswillomigie2004-dev/social-links-profile-main)
+- Live Site URL: [live site](https://godswillomigie2004-dev.github.io/social-links-profile-main/)
 
 ## My process
 
